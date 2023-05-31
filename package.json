@@ -1,0 +1,22 @@
+{
+  "name": "list-geni",
+  "version": "1.0.0",
+  "description": "A command line list generator.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "inquirer-maxlength-input-prompt": "^1.0.2",
+    "make-runnable": "^1.4.1",
+    "node-fetch": "^3.3.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
