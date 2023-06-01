@@ -44,7 +44,9 @@
 
 ## Usage
 
-![example](assets/screenshot.png) LASKDJFASLDKFJASDLFKJASLDKFJSADLFKJASLDKFJASDLFKJ LOOOK HERE
+![example](https://github.com/haileyraehughes89/challenge-10-SVG-Logo-Maker/assets/127250721/cca0349e-d345-4472-8d69-460d4ec11f46)
+
+
 
 ## Credits
 
