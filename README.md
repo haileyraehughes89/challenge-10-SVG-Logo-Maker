@@ -43,10 +43,7 @@
 </div>
 
 ## Usage
-
-![example](https://github.com/haileyraehughes89/challenge-10-SVG-Logo-Maker/assets/127250721/cca0349e-d345-4472-8d69-460d4ec11f46)
-
-
+![Screenshot 2023-06-01 at 9 34 03 AM (2)](https://github.com/haileyraehughes89/challenge-10-SVG-Logo-Maker/assets/127250721/cda7814f-9f52-45c4-8154-ba87fd53e459)
 
 ## Credits
 
@@ -69,3 +66,5 @@
 
 - GitHub:
   <a href="https://www.google.com/" style="color: #E85F5C">https://github.com/haileyraehughes89</a>
+  
+  https://github.com/haileyraehughes89/challenge-10-SVG-Logo-Maker/assets/127250721/cca0349e-d345-4472-8d69-460d4ec11f46
